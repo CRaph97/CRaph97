@@ -12,7 +12,9 @@
 
 ###
 
-<h3 align="center">And I couldn't be more excited about it! 🎉</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=6000&pause=10000&color=F7F7F7&background=252525EE&center=true&vCenter=true&multiline=true&width=400&height=45&lines=And+I+couldn't+be+more+excited+about+it!+%F0%9F%8E%89" alt="Typing SVG" /></a><h/3>
+
+a{border-radius: 10px;}
 
 ###
 
@@ -72,9 +74,5 @@
 <h3 align="left">Lets play Snake Game with my Github Contribution!</h3>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CRaph97/CRaph97/blob/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/CRaph97/CRaph97/blob/output/github-contribution-grid-snake.gif)
 ###
