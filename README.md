@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=6000&pause=10000&color=F7F7F7&background=252525EE&center=true&vCenter=true&multiline=true&width=400&height=45&lines=And+I+couldn't+be+more+excited+about+it!+%F0%9F%8E%89" alt="Typing SVG"/></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=3800&pause=10000&color=F7F7F7&background=252525EE&center=true&vCenter=true&multiline=true&width=400&height=45&lines=And+I+couldn't+be+more+excited+about+it!+%F0%9F%8E%89" alt="Typing SVG"/></a></h3>
 
 ###
 
