@@ -16,11 +16,11 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<img align="right" height="140" src="https://camo.githubusercontent.com/0954d3b7bbef4ebd9dc69e3e010276d8ec4f31a508007b8b46b69b40734cc868/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a432d6350503944324d497965657841542e676966"  />
 
 ###
 
-<p align="left">• 😎 Hungry about Tech knowledge (HTML, JavaScript, CSS, Ruby on Rails, etc)<br>• 🌱 Currently trying to learn Dart and React<br>• 👨‍💻 My most recent 2-week functional web-app project: myplaceproperty.homes<br>• 📫 Reach my through my LinkedIn or Email<br>• 💬  Super friendly and social, so feel free to reach out with any questions, enquiries or collaborations!</p>
+<p align="left">• 😎 Hungry about Tech knowledge (HTML, JavaScript, CSS, Ruby on Rails, etc)<br>• 🌱 Currently trying to learn Dart and React<br>• 👨‍💻 My most recent 2-week functional web-app project: www.myplaceproperty.homes<br>• 📫 Reach my through my LinkedIn or Email<br>• 💬  Super friendly and social, so feel free to reach out with any questions, enquiries or collaborations!</p>
 
 ###
 
@@ -31,6 +31,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=CRaph97" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=CRaph97" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CRaph97&theme=vue" height="180" alt="stats graph"  />
 </div>
 
 ###
