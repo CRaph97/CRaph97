@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://rishavanand.github.io/static/images/greetings.gif"  />
+  <img height="300" src="https://rishavanand.github.io/static/images/greetings.gif"  />
 </div>
 
 ###
@@ -12,9 +12,7 @@
 
 ###
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=6000&pause=10000&color=F7F7F7&background=252525EE&center=true&vCenter=true&multiline=true&width=400&height=45&lines=And+I+couldn't+be+more+excited+about+it!+%F0%9F%8E%89" alt="Typing SVG" /></a><h/3>
-
-a{border-radius: 10px;}
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&duration=6000&pause=10000&color=F7F7F7&background=252525EE&center=true&vCenter=true&multiline=true&width=400&height=45&lines=And+I+couldn't+be+more+excited+about+it!+%F0%9F%8E%89" alt="Typing SVG"/></a></h3>
 
 ###
 
